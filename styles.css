@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+text-align: center;
+}
+
+h2>ul>li{
+    text-align: center;
+}
+
+h1>img{float: right;}
